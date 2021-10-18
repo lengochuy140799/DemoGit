@@ -1,0 +1,36 @@
+.smallbtn{
+    border:none;
+    outline:none;
+    border-radius:5px;
+    background:transparent;
+}
+.smallbtn:hover{
+    box-shadow:5px 5px 10px gray;
+}
+.smallbtn1{
+    border:none;
+    outline:none;
+    border-radius:5px;
+    background:transparent;
+}
+.smallbtn1:hover{
+    box-shadow:5px 5px 10px gray;
+}
+.smallbtn2{
+    border:none;
+    outline:none;
+    border-radius:5px;
+    background:transparent;
+}
+.smallbtn2:hover{
+    box-shadow:5px 5px 10px gray;
+}
+.smallbtn3{
+    border:none;
+    outline:none;
+    border-radius:5px;
+    background:transparent;
+}
+.smallbtn3:hover{
+    box-shadow:5px 5px 10px gray;
+}
